@@ -2,7 +2,7 @@
 
 ## LLM-Powered Conversational Chat Assistant
 
-GitHub: https://github.com/Meer-Mohammad-Faisal/FaisGPT
+GitHub: https://github.com/Meer-Mohammad-Faisal/Fais_GPT_Pro
 Live Demo: [your-live-demo-link.com]
 Python | Node.js | React | TypeScript | OpenAI API | PostgreSQL | Redis | Docker
 
